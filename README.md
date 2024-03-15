@@ -9,7 +9,7 @@ This repository is the source code for my personal website, which will contain a
 ### Objectives
 - First and foremost, I want to become **more comfortable with front-end development** and have a way of learning new development concepts outside of my job
 - My website can be composed of **multiple repositories**, allowing for **modularity**:
-   - Eaxmple: `https://augustusshald.com/recipes` displays content from the repository `augies-recipes`
+   - Example: `https://mysite.com/recipes` displays content from the repository `augies-recipes`
    - The root of the site is `augies-site`
 - **Initializing new site repositories requires relatively little toil**. I want to be able to initialize the repository from a template, create the DNS record, and add it to the base site's routing to get new repositories up and running.
 - Overall **progress on this project will be tracked using a Kanban Jira board**. I'm hoping I can use GitHub actions of some sort to automatically generate tickets from GitHub issues, with each site repository having its own Epic.
